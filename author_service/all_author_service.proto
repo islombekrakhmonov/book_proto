@@ -1,0 +1,5 @@
+syntax="proto3";
+
+package author_service;
+
+option go_package = "genproto/author_service";
